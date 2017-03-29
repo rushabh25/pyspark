@@ -1,0 +1,6 @@
+Learner/target/
+Learner/.idea/libraries
+Learner/project/target/
+*.class
+*.jar
+*.cache
