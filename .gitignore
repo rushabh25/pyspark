@@ -4,3 +4,6 @@ Learner/project/target/
 *.class
 *.jar
 *.cache
+SpamDetector/target
+SpamDetector/project/target
+SpamDetector/.idea/libraries
